@@ -255,9 +255,7 @@ export default function HomePage() {
                             View All
                         </button>
                     </div>
-                    <div className="w-full h-[1px] bg-black/10 mb-[70px]">
-
-                    </div>
+                    <div className="w-full h-[1px] bg-black/10 mb-[70px]"></div>
                     <h1 className="text-5xl font-semibold text-center mb-16">
                         TOP SELLING
                     </h1>
@@ -314,7 +312,7 @@ export default function HomePage() {
                                 />
                             </div>
                             <h1 className="text-xl font-bold mb-1">
-                            Courage Graphic T-shirt
+                                Courage Graphic T-shirt
                             </h1>
                             <div className="flex mb-1.5 items-center gap-3">
                                 <div className="flex gap-2">
@@ -502,10 +500,11 @@ export default function HomePage() {
                                 </div>
                             </div>
                             <p className="text-black/60">
-                                "I'm blown away by the quality and style of the
-                                clothes I received from JWC.CO. From casual wear
-                                to elegant dresses, every piece I've bought has
-                                exceeded my expectations.”
+                                {'"'}I{"'"}m blown away by the quality and style
+                                of the clothes I received from JWC.CO. From
+                                casual wear to elegant dresses, every piece I
+                                {"'"}ve bought has exceeded my expectations.
+                                {'"'}
                             </p>
                         </div>
                         <div className="px-[32px] py-[24px] rounded-[20px] border border-black/10">
@@ -535,11 +534,11 @@ export default function HomePage() {
                                 </div>
                             </div>
                             <p className="text-black/60">
-                                "Finding clothes that align with my personal
+                                {'"'}Finding clothes that align with my personal
                                 style used to be a challenge until I discovered
                                 JWC.CO. The range of options they offer is truly
                                 remarkable, catering to a variety of tastes and
-                                occasions.”
+                                occasions.{'"'}
                             </p>
                         </div>
                         <div className="px-[32px] py-[24px] rounded-[20px] border border-black/10">
@@ -569,11 +568,11 @@ export default function HomePage() {
                                 </div>
                             </div>
                             <p className="text-black/60">
-                                "As someone who's always on the lookout for
-                                unique fashion pieces, I'm thrilled to have
-                                stumbled upon JWC.CO. The selection of clothes
-                                is not only diverse but also on-point with the
-                                latest trends.”
+                                {'"'}As someone who{"'"}s always on the lookout
+                                for unique fashion pieces, I{"'"}m thrilled to
+                                have stumbled upon JWC.CO. The selection of
+                                clothes is not only diverse but also on-point
+                                with the latest trends.{'"'}
                             </p>
                         </div>
                         <div className="absolute top-0 right-[calc(100%+20px)] w-[500px] h-[222px] px-[32px] py-[24px] rounded-[20px] border border-black/10 blur-[2px]">
@@ -603,10 +602,11 @@ export default function HomePage() {
                                 </div>
                             </div>
                             <p className="text-black/60">
-                                "I'm blown away by the quality and style of the
-                                clothes I received from JWC.CO. From casual wear
-                                to elegant dresses, every piece I've bought has
-                                exceeded my expectations.”
+                                {'"'}I{"'"}m blown away by the quality and style
+                                of the clothes I received from JWC.CO. From
+                                casual wear to elegant dresses, every piece I
+                                {"'"}ve bought has exceeded my expectations.
+                                {'"'}
                             </p>
                         </div>
                         <div className="absolute top-0 left-[calc(100%+20px)] w-[500px] h-[222px] px-[32px] py-[24px] rounded-[20px] border border-black/10 blur-[2px]">
@@ -636,11 +636,11 @@ export default function HomePage() {
                                 </div>
                             </div>
                             <p className="text-black/60">
-                                "As someone who's always on the lookout for
-                                unique fashion pieces, I'm thrilled to have
-                                stumbled upon JWC.CO. The selection of clothes
-                                is not only diverse but also on-point with the
-                                latest trends.”
+                                {'"'}As someone who{"'"}s always on the lookout
+                                for unique fashion pieces, I{"'"}m thrilled to
+                                have stumbled upon JWC.CO. The selection of
+                                clothes is not only diverse but also on-point
+                                with the latest trends.{'"'}
                             </p>
                         </div>
                     </div>
